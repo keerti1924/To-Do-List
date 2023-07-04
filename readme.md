@@ -67,8 +67,6 @@ git clone https://github.com/keerti1924/To-Do List.git
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](/issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## ⭐️ Show your support 
 
 Give a ⭐️ if you like this project!
