@@ -216,3 +216,22 @@ ul li span {
 ul li span:hover {
     background: #edeef0;
 }
+
+/* Responsive Design  */
+
+@media (max-width:760px) {
+    .container {
+        height: 100%;
+        width: 100%;
+    }
+
+    .row {
+        max-width: 400px;
+    }
+
+    button {
+        max-width: 400px;
+        padding: 10px;
+        font-size: 15px;
+    }
+}
